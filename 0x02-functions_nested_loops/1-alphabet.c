@@ -1,15 +1,14 @@
-#include "main:wq.h"
+#include "main.h"
+
 /**
- * print_alphabet - prints the english alphabet from a-z.
- * Return: Nothing.
- */
+* print_alphabet 
+*/
+
 void print_alphabet(void)
 {
-char c;
+		int ch;
 
-for (c = 'a'; c <= 'z'; c++)
-{
-_putchar(c);
-}
-_putchar('\n');
+		for (ch = 'a'; ch <= 'z'; ++ch)
+			_putchar(ch);
+		_putchar('\n');
 }
