@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
 /**
  * main - prints the biggest prime factor of a number.
  *
@@ -47,7 +47,7 @@ int isPrime(long int n)
 				return (0);
 			}
 		}
-		return (1);
+	return (1);
 	}
 }
 /**
