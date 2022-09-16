@@ -1,5 +1,5 @@
-#include "holberton.h"
-
+#include "mmain.h"
+#include <stdio.h>
 /**
  * print_diagonal - printing lines diagonal
  * @n: input variable
