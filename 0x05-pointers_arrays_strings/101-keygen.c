@@ -1,4 +1,4 @@
-#import "main"
+#include "main.h"
 /**
  * main -
  * Return:
