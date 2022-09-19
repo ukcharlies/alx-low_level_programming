@@ -1,8 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_array - print array up to n elements 
- * @a: array to be read 
+ * print_array - print array up to n elements
+ * @a: array to be read
  * @n: number to be read
  * Return: always 0
  */
