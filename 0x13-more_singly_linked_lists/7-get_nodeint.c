@@ -25,6 +25,7 @@ listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 
 	return (head);
 }
+/*
 * get_nodeint_at_index - function with two arguments
 *
 * @head: pointer to first node of linked list
